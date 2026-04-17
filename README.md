@@ -1,10 +1,10 @@
-#  Calculator
+##  Calculator
 
 A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Basic operations (+, −, ×, ÷)
 - Keyboard support
@@ -14,7 +14,7 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML (Structure)
 - CSS (Styling)
@@ -22,7 +22,7 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 - User clicks buttons or uses keyboard input
 - JavaScript updates display using DOM manipulation
@@ -31,24 +31,13 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 ---
 
-## ⚠️ Note
+##  Note
 
 `eval()` is used for simplicity. In real-world applications, a safer math parser should be used.
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
-(Add your project screenshot here)
 
----
 
-## 🔗 Live Demo
-
-(Add GitHub Pages link here later)
-
----
-
-## 🙋‍♀️ Author
-
-- Khushi Keshri

@@ -1,28 +1,22 @@
+const display = document.getElementById("display");
 function append(value) {
-  document.getElementById("display").value += value;
+  display.value += value;
 }
 
 function clearDisplay() {
-  document.getElementById("display").value = "";
+  display.value = "";
 }
 
 function calculate() {
   try {
-    let result = eval(document.getElementById("display").value);
-    document.getElementById("display").value = result;
-  } catch {
-    alert("Invalid Expression");
+    let expression = display.value;
+    if (expression.trim() === "") return;
+    let result = Function('"use strict"; return (' + expression + ')')();
+    display.value = result;
+  } catch(error) {
+    display.value = "Error";
   }
 }
-
-// Keyboard support
-document.addEventListener("keydown", function(e) {
-  if (!isNaN(e.key) || "+-*/().".includes(e.key)) {
-    append(e.key);
-  }
-  if (e.key === "Enter") calculate();
-  if (e.key === "Backspace") {
-    let val = display.value;
-    display.value = val.slice(0, -1);
-  }
-});
+function deleteLast(){
+  display.value = display.value.slice(0, -1);
+}

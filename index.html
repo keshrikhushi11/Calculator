@@ -8,7 +8,8 @@
 <body>
 
 <div class="calculator">
-  <input type="text" id="display" disabled>
+  <input type="text" id="display" readonly>
+  
 
   <div class="buttons">
     <button onclick="clearDisplay()">C</button>
@@ -34,6 +35,7 @@
     <button onclick="append('0')">0</button>
     <button onclick="append('.')">.</button>
     <button onclick="calculate()">=</button>
+    <button onclick="deleteLast()">X</button>
   </div>
 </div>
 

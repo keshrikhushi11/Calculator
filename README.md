@@ -39,7 +39,12 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 ## Screenshot
 
-<img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/d294a40a-aa81-459c-8806-6cda6d5413b2" /> <img width="705" height="822" alt="image" src="https://github.com/user-attachments/assets/ac60c134-efc3-4aaf-b94b-3da906d2b895" />
+<img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/d294a40a-aa81-459c-8806-6cda6d5413b2" />
+
+
+
+
+<img width="705" height="822" alt="image" src="https://github.com/user-attachments/assets/ac60c134-efc3-4aaf-b94b-3da906d2b895" />
 
 
 

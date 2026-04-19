@@ -1,41 +1,44 @@
-##  Calculator
+# Calculator Web App
 
-A modern and responsive calculator built using HTML, CSS, and JavaScript.
+A simple and responsive calculator built using **HTML, CSS, and JavaScript**.  
+This project performs basic arithmetic operations and demonstrates DOM manipulation and event handling.
 
 ---
 
 ##  Features
 
-- Basic operations (+, −, ×, ÷)
-- Keyboard support
-- Clean and modern UI
-- Error handling for invalid expressions
-- Responsive design
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
+-  Supports bracket operations `( )`  
+-  Keyboard support (Enter, Backspace, numbers, operators)  
+-  Clear display (C button)  
+-  Delete last input  
+-  Modern UI with glassmorphism design  
 
 ---
 
-##  Tech Stack
+##  Technologies Used
 
-- HTML (Structure)
-- CSS (Styling)
-- JavaScript (Logic & DOM Manipulation)
+- **HTML** → Structure of the calculator  
+- **CSS** → Styling and layout (Grid + Flexbox)  
+- **JavaScript** → Logic and DOM manipulation  
 
 ---
 
-##  How It Works
+##  Key Concepts Used
 
-- User clicks buttons or uses keyboard input
-- JavaScript updates display using DOM manipulation
-- Expression is evaluated using `eval()` function
-- Result is displayed instantly
+- DOM Manipulation (`getElementById`)  
+- Event Handling (`onclick`, `keydown`)  
+- Error handling using `try...catch`  
 
 ---
 
 ##  Note
 
-`eval()` is used for simplicity. In real-world applications, a safer math parser should be used.
+- `eval()` was avoided due to security risks  
+- Used `Function()` for safer evaluation  
 
 ---
+
 
 ## Screenshot
 
@@ -44,7 +47,7 @@ A modern and responsive calculator built using HTML, CSS, and JavaScript.
 
 
 
-<img width="705" height="822" alt="image" src="https://github.com/user-attachments/assets/ac60c134-efc3-4aaf-b94b-3da906d2b895" />
+<img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/ac60c134-efc3-4aaf-b94b-3da906d2b895" />
 
 
 

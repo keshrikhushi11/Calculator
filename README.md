@@ -7,7 +7,7 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 
 ##  Features
 
-- (+) Addition, (-) Subtraction, (*) Multiplication, (/) Division  
+- '( + )' Addition, '( - )' Subtraction, '( * )' Multiplication, '( / )' Division  
 -  Supports bracket operations `( )`  
 -  Keyboard support (Enter, Backspace, numbers, operators)  
 -  Clear display (C button)  

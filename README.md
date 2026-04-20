@@ -44,11 +44,11 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 <img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/d294a40a-aa81-459c-8806-6cda6d5413b2" />
 
 
-
+---
 
 <img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/ac60c134-efc3-4aaf-b94b-3da906d2b895" />
 
-
+---
 
 <img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/daa118ac-a1d1-4b22-b093-a9e70676f7b9" />
 

@@ -11,15 +11,14 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 -  Supports bracket operations `( )`  
 -  Keyboard support (Enter, Backspace, numbers, operators)  
 -  Clear display (C button)  
--  Delete last input  
--  Modern UI with glassmorphism design  
+-  Delete last input  (X button) 
 
 ---
 
 ##  Technologies Used
 
 - **HTML** → Structure of the calculator  
-- **CSS** → Styling and layout (Grid + Flexbox)  
+- **CSS** → Styling and layout (Grid + Flexbox)
 - **JavaScript** → Logic and DOM manipulation  
 
 ---

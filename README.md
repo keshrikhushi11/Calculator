@@ -1,4 +1,4 @@
-# Calculator Web App
+## Calculator Web App
 
 A simple and responsive calculator built using **HTML, CSS, and JavaScript**.  
 This project performs basic arithmetic operations and demonstrates DOM manipulation and event handling.
@@ -34,7 +34,7 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 ##  Note
 
 - `eval()` was avoided due to security risks  
-- Used `Function()` for safer evaluation  
+- I used `Function()` for safer evaluation  
 
 ---
 

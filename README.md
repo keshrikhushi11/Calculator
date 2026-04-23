@@ -11,7 +11,7 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 -  Supports bracket operations `( )`  
 -  Keyboard support (Enter, Backspace, numbers, operators)  
 -  Clear display (C button)  
--  Delete last input  (X button) 
+-  Delete last input  (X button)
 
 ---
 

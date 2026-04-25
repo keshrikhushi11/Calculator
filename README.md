@@ -33,8 +33,8 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 
 ##  Note
 
-- `eval()` was avoided due to security risks  
-- I used `Function()` for safer evaluation  
+- `eval()` was avoided due to security risks. 
+- So,I used `Function()` for safer evaluation.
 
 ---
 

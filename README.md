@@ -19,7 +19,7 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 
 - **HTML** → Structure of the calculator  
 - **CSS** → Styling and layout (Grid + Flexbox)
-- **JavaScript** → Logic and DOM manipulation  
+- **JavaScript** → Logic and DOM manipulation
 
 ---
 

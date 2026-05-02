@@ -1,25 +1,39 @@
-## Calculator Web App
+## Scientific Calculator Web App :
 
-A simple and responsive calculator built using **HTML, CSS, and JavaScript**.  
-This project performs basic arithmetic operations and demonstrates DOM manipulation and event handling.
+A modern and responsive **Scientific Calculator** built using HTML, CSS, and JavaScript.  
+It supports both basic arithmetic and advanced mathematical operations like trigonometric functions and history tracking.
 
 ---
 
 ##  Features
 
-- `( + )`  Addition, `( - )`  Subtraction, `( * )`  Multiplication, `( / )`  Division 
--  Supports bracket operations `( )`  
--  Keyboard support (Enter, Backspace, numbers, operators)  
--  Clear display (C button)  
--  Delete last input  (X button)
+-  Basic operations: Addition, Subtraction, Multiplication, Division  
+-  Trigonometric functions: sin, cos, tan  
+-  Advanced operations: log, square root, power  
+- π and e constants  
+-  Keyboard support  
+-  Calculation history  
+-  Error handling (invalid expressions)  
+-  Modern glassmorphism UI  
 
 ---
 
 ##  Technologies Used
 
-- **HTML** → Structure of the calculator  
-- **CSS** → Styling and layout (Grid + Flexbox)
-- **JavaScript** → Logic and DOM manipulation
+- **HTML** → Structure  
+- **CSS** → Styling (Grid + Flexbox)  
+- **JavaScript** → Logic, DOM manipulation(process to accessing and updating HTML elements using Javascript.) 
+
+---
+
+##  How It Works
+
+- User enters expression using buttons or keyboard  
+- JavaScript updates display using DOM manipulation  
+- Expression is evaluated using `Function()`  
+- Trigonometric functions are converted from degrees to radians  
+- Result is displayed instantly  
+- History is stored dynamically  
 
 ---
 
@@ -27,29 +41,11 @@ This project performs basic arithmetic operations and demonstrates DOM manipulat
 
 - DOM Manipulation (`getElementById`)  
 - Event Handling (`onclick`, `keydown`)  
+- JavaScript Math functions  
 - Error handling using `try...catch`  
+- String manipulation  
 
 ---
 
-##  Note
-
-- `eval()` was avoided due to security risks. 
-- So,I used `Function()` for safer evaluation.
-
----
-
-
-## Screenshot
-
-<img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/d294a40a-aa81-459c-8806-6cda6d5413b2" />
-
-
----
-
-<img width="649" height="811" alt="image" src="https://github.com/user-attachments/assets/ac60c134-efc3-4aaf-b94b-3da906d2b895" />
-
----
-
-<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/daa118ac-a1d1-4b22-b093-a9e70676f7b9" />
-
+## 📂 Project Structure
 

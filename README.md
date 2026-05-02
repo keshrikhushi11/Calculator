@@ -47,5 +47,13 @@ It supports both basic arithmetic and advanced mathematical operations like trig
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+
+<img width="1270" height="843" alt="image" src="https://github.com/user-attachments/assets/bc68ce35-5726-4039-bd27-58ae4be49e24" />
+
+---
+
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/4a4c891c-5ddd-4ddc-b452-c0d1b197e663" />
+
+
 

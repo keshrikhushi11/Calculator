@@ -7,10 +7,10 @@ It supports both basic arithmetic and advanced mathematical operations like trig
 
 ##  Features
 
--  Basic operations: Addition, Subtraction, Multiplication, Division  
--  Trigonometric functions: sin, cos, tan  
--  Advanced operations: log, square root, power  
-- π and e constants  
+-  Basic operations: `Addition`, `Subtraction` , `Multiplication` ,`Division`
+-  Trigonometric functions: `sin`, `cos`, `tan` 
+-  Advanced operations: `log`, `square root`, `power`  
+-  `π` and `e` constants  
 -  Keyboard support  
 -  Calculation history  
 -  Error handling (invalid expressions)  

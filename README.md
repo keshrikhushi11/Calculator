@@ -45,7 +45,8 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 - Event Handling (`onclick`, `keydown`)  
 - JavaScript Math functions  
 - Error handling using `try...catch`  
-- String manipulation  
+- String manipulation
+- JSON.parase for History `(localStorage)`
 
 ---
 

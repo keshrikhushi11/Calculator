@@ -13,8 +13,7 @@
 </div>
 
 <div class="calculator">
-  <input type="text" id="display" readonly>
-  
+  <input type="text" id="display">
 
   <div class="buttons">
 
@@ -22,7 +21,7 @@
     <button onclick="append('(')">(</button>
     <button onclick="append(')')">)</button>
     <button onclick="append('/')">÷</button>
-    <button onclick="append('Math.sin(')">sin</button>
+    <button onclick="append('Math.sin(')">sin</button> 
 
     <button onclick="append('7')">7</button>
     <button onclick="append('8')">8</button>
@@ -54,6 +53,10 @@
     <button onclick="append('Math.E(')">e</button>
     <button onclick="append('**')">^</button>
     <button class="scientific" onclick="append('Math.sin(')">sin</button>
+    <button onclick="clearHistory()">Clear 
+      History
+    </botton>
+    
   </div>
 </div>
 <script src="script.js"></script>

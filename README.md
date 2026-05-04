@@ -59,5 +59,10 @@ It supports both basic arithmetic and advanced mathematical operations like trig
 
 <img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/cc1aef91-bda5-413d-93cc-d84cc99c52e4" />
 
+---
+
+<img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/496153d4-4005-4f6b-93ea-936c34a44062" />
+
+
 
 

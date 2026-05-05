@@ -52,7 +52,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 
 ##  Project Structure
 
-<img width="1920" height="855" alt="image" src="https://github.com/user-attachments/assets/71abe5aa-81bb-4514-939d-375fff74ff42" />
+<img width="1234" height="856" alt="image" src="https://github.com/user-attachments/assets/b14a0bee-c617-4bd4-b22c-e108280413a8" />
 
 ---
 
@@ -66,8 +66,4 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 ---
 
 <img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/b3dee213-f723-4eff-87ef-5d4409b830f5" />
-
-
-
-
 

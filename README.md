@@ -65,7 +65,8 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 
 ---
 
-<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/6ac22b55-5290-460e-9058-240a9bc97401" />
+<img width="1920" height="1023" alt="image" src="https://github.com/user-attachments/assets/b3dee213-f723-4eff-87ef-5d4409b830f5" />
+
 
 
 

@@ -1,7 +1,7 @@
 ## Scientific Calculator Web App :
 
 A modern and responsive **Scientific Calculator** built using HTML, CSS, and JavaScript.  
-It supports basic operations, scientific functions, and also maintains a persistent calculation history using localStorage.
+It supports basic operations, scientific functions, and also maintains a persistent calculation history using localStorage.      
 I converted the history array into a string using `JSON.stringify()` before saving it,
 and while retrieving, I converted it back into an array using `JSON.parse()`.
 

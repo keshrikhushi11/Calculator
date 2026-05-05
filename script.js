@@ -13,17 +13,25 @@ function clearDisplay() {
   display.value = "";
 }
 
+function sin(x) {
+  return Math.sin(x * Math.PI / 180);
+}
+
+function cos(x) {
+  return Math.cos(x * Math.PI / 180);
+}
+
+function tan(x) {
+  return Math.tan(x * Math.PI / 180);
+}
+
 function calculate() {
   try {
     let expression = display.value;
 
     if (expression.trim() === "") return;
 
-    expression = expression
-      .replace(/Math\.sin\(([^)]+)\)/g, 'Math.sin(($1) * Math.PI / 180)')
-      .replace(/Math\.cos\(([^)]+)\)/g, 'Math.cos(($1) * Math.PI / 180)')
-      .replace(/Math\.tan\(([^)]+)\)/g, 'Math.tan(($1) * Math.PI / 180)');
-
+    
     let result = Function('"use strict"; return (' + expression + ')')();
 
     //SAVE HISTORY

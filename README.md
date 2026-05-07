@@ -7,7 +7,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 
 ---
 
-##  Features
+##  Features :
 
 -  Basic operations: `Addition`, `Subtraction` , `Multiplication` ,`Division`
 -  Trigonometric functions: `sin`, `cos`, `tan` 
@@ -28,7 +28,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 
 ---
 
-##  How It Works
+##  How It Works :
 
 - User enters expression using buttons or keyboard  
 - JavaScript updates display using DOM manipulation  
@@ -39,7 +39,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 
 ---
 
-##  Key Concepts Used
+##  Key Concepts Used :
 
 - DOM Manipulation (`getElementById`)  
 - Event Handling (`onclick`, `keydown`)  
@@ -50,7 +50,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 
 ---
 
-##  Project Structure
+##  Project Structure :
 
 <img width="1234" height="856" alt="image" src="https://github.com/user-attachments/assets/b14a0bee-c617-4bd4-b22c-e108280413a8" />
 

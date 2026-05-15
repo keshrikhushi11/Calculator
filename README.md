@@ -15,7 +15,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 -  `π` and `e` constants  
 -  Keyboard support  
 -  Calculation history  
--  Error handling (invalid expressions)  
+-  Error handling (invalid expressions) 
 
 ---
 

@@ -25,8 +25,7 @@ and while retrieving, I converted it back into an array using `JSON.parse()`.
 - **CSS** → Styling (Grid + Flexbox)  
 - **JavaScript** → Logic, DOM manipulation(process to accessing and updating HTML elements using Javascript.)
 - I used local storage to store the history parmanently. If user wants to delete the history they can delete.
-  I converted it back into an array using JSON.parse().
-
+- I converted it back into an array using JSON.parse().
 ---
 
 ##  How It Works :
